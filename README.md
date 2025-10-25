@@ -245,7 +245,7 @@ This project is licensed under the MIT License — see the LICENSE file for deta
 
 Amos Anand — BuiltByAmos
 
-- GitHub: https://github.com/BuiltByAmos
+- GitHub: https://github.com/BuiltByAmos-1801
 - Repo: https://github.com/BuiltByAmos-1801/Website-Performance-Analyzer
 - LinkedIn: www.linkedin.com/in/amos-anand-a1a57b390
 
