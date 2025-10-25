@@ -247,7 +247,7 @@ Amos Anand — BuiltByAmos
 
 - GitHub: https://github.com/BuiltByAmos
 - Repo: https://github.com/BuiltByAmos-1801/Website-Performance-Analyzer
-- LinkedIn: https://www.linkedin.com/in/amos-anand (placeholder — replace with your real profile)
+- LinkedIn: www.linkedin.com/in/amos-anand-a1a57b390
 
 ---
 
